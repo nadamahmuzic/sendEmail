@@ -1,0 +1,2 @@
+mail.host=to@email.com
+mail.from=from@email.com
